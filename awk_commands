@@ -1,0 +1,2 @@
+#awk command to find the number of columns in a file
+awk -F',' '{print NF}' stats.csv | sort | uniq -c
