@@ -1,0 +1,2604 @@
+,city
+0,
+1,
+2,    Binche 
+3,    Reims 
+4,    Saint-Dié-des-Vosges 
+5,    Mulhouse 
+6,    Belfort 
+7,    Mâcon 
+8,    Saint-Étienne 
+9,    Saint-Flour 
+10,    Albi 
+11,    Toulouse 
+12,
+13,    Tarbes 
+14,    Limoux 
+15,
+16,    Vers 
+17,    Embrun 
+18,    Saint-Jean-de-Maurienne 
+19,    Albertville 
+20,    Rambouillet 
+21,
+22,
+23,
+24,    Noirmoutier-en-l'Ile 
+25,    Mouilleron 
+26,    Cholet 
+27,    La Baule-Escoublac 
+28,    Lorient 
+29,    Brest 
+30,    Fougères 
+31,    Dreux 
+32,    Arras 
+33,    Annecy 
+34,    Albertville 
+35,    Bourg-Saint-Maurice 
+36,    Bourg d'Oisans 
+37,    Saint-Paul-Trois-Châteaux 
+38,    Millau 
+39,    Carcassonne 
+40,    Bagnères-de-Luchon 
+41,    Trie-sur-Baïse 
+42,    Lourdes 
+43,    Saint-Pée-sur-Nivelle 
+44,    Houilles 
+45,    Noirmoutier-en-l'Ile 
+46,    Noirmoutier-en-l'Ile 
+47,    Noirmoutier-en-l'Ile 
+48,    Düsseldorf 
+49,    Düsseldorf 
+50,    Verviers 
+51,    Mondorf-les-Bains 
+52,    Vittel 
+53,    Vesoul 
+54,    Troyes 
+55,    Dole 
+56,    Nantua 
+57,    Périgueux 
+58,    Eymet 
+59,    Pau 
+60,    Saint-Girons 
+61,    Blagnac 
+62,    Laissac 
+63,    Le Puy-en Velay 
+64,    La Mure 
+65,    Briançon 
+66,    Embrun 
+67,    Marseilles 
+68,    Montgeron 
+69,
+70,
+71,
+72,    Le Mont-Saint-Michel 
+73,    Saint-Lô 
+74,    Granville 
+75,    Saumur 
+76,    Limoges 
+77,    Arpajon-sur-Cère 
+78,    L'Isle-Jourdain 
+79,    Pau 
+80,    Vielha 
+81,    Andorra 
+82,    Carcassonne 
+83,    Montpellier 
+84,    Bourg-Saint-Andéol 
+85,    Montélimar 
+86,    Bourg-en-Bresse 
+87,    Moirans-en-Montagne 
+88,    Bern 
+89,    Sallanches 
+90,    Albertville 
+91,    Megève 
+92,    Chantilly 
+93,
+94,
+95,
+96,
+97,    Utrecht 
+98,    Utrecht 
+99,    Antwerpen 
+100,    Seraing 
+101,    Arras 
+102,    Abbeville 
+103,    Livarot 
+104,    Rennes 
+105,    Vannes 
+106,    Tarbes 
+107,    Pau 
+108,    Lannemezan 
+109,    Muret 
+110,    Rodez 
+111,    Mende 
+112,    Bourg-de-Péage 
+113,    Digne 
+114,    Gap 
+115,    Saint-Jean-de-Maurienne 
+116,    Modane 
+117,    Sèvres 
+118,
+119,
+120,
+121,
+122,    Leeds 
+123,    York 
+124,    Cambridge 
+125,    Le Touquet-Paris-Plage 
+126,    Ieper 
+127,    Arras 
+128,    Épernay 
+129,    Tomblaine 
+130,    Gérardmer 
+131,    Mulhouse 
+132,    Besançon 
+133,    Bourg-en-Bresse 
+134,    Saint-Étienne 
+135,    Grenoble 
+136,    Tallard 
+137,    Carcassonne 
+138,    Saint-Gaudens 
+139,    Pau 
+140,    Maubourguet 
+141,    Bergerac 
+142,    Évry 
+143,
+144,
+145,
+146,
+147,    Porto-Vecchio 
+148,    Bastia 
+149,    Ajaccio 
+150,    Nice 
+151,    Cagnes-sur-Mer 
+152,    Aix-en-Provence 
+153,    Montpellier 
+154,    Castres 
+155,    Saint-Girons 
+156,    Saint-Gildas-des-Bois 
+157,    Avranches 
+158,    Fougères 
+159,    Tours 
+160,    Saint-Pourçain-sur-Sioule 
+161,    Givors 
+162,    Vaison-la-Romaine 
+163,    Embrun 
+164,    Gap 
+165,    Le Bourg-d'Oisans 
+166,    Annecy 
+167,    Versailles 
+168,
+169,
+170,
+171,
+172,    Liège 
+173,    Liège 
+174,    Visé 
+175,    Orchies 
+176,    Abbeville 
+177,    Rouen 
+178,    Épernay 
+179,    Tomblaine 
+180,    Belfort 
+181,    Arc-et-Senans 
+182,    Mâcon 
+183,    Albertville 
+184,    Saint-Jean-de-Maurienne 
+185,    Saint-Paul-Trois-Châteaux 
+186,    Limoux 
+187,    Samatan 
+188,    Pau 
+189,    Bagnères-de-Luchon 
+190,    Blagnac 
+191,    Bonneval 
+192,    Rambouillet 
+193,
+194,
+195,
+196,
+197,    Passage du Gois 
+198,    Les Essarts 
+199,    Olonne-sur-Mer 
+200,    Lorient 
+201,    Carhaix 
+202,    Dinan 
+203,    Le Mans 
+204,    Aigurande 
+205,    Issoire 
+206,    Aurillac 
+207,    Blaye-les-Mines 
+208,    Cugnaux 
+209,    Pau 
+210,    Saint-Gaudens 
+211,    Limoux 
+212,    Saint-Paul-Trois-Châteaux 
+213,    Gap 
+214,    Pinerolo 
+215,    Modane 
+216,    Grenoble 
+217,    Créteil 
+218,
+219,
+220,
+221,
+222,    Rotterdam 
+223,    Rotterdam 
+224,    Brussel/Bruxelles 
+225,    Wanze 
+226,    Cambrai 
+227,    Épernay 
+228,    Montargis 
+229,    Tournus 
+230,    Les Rousses 
+231,    Morzine 
+232,    Chambéry 
+233,    Sisteron 
+234,    Bourg-de-Péage 
+235,    Rodez 
+236,    Revel 
+237,    Pamiers 
+238,    Bagnères-de-Luchon 
+239,    Pau 
+240,    Salies-de-Béarn 
+241,    Bordeaux 
+242,    Longjumeau 
+243,
+244,
+245,
+246,
+247,    Monaco 
+248,    Monaco 
+249,    Marseille 
+250,    Montpellier 
+251,    Le Cap d'Agde 
+252,    Girona 
+253,    Barcelona 
+254,    Andorra la Vella 
+255,    Saint-Gaudens 
+256,    Limoges 
+257,    Vatan 
+258,    Tonnerre 
+259,    Vittel 
+260,    Colmar 
+261,    Pontarlier 
+262,    Martigny 
+263,    Bourg-Saint-Maurice 
+264,    Annecy 
+265,    Bourgoin 
+266,    Montélimar 
+267,    Montereau-Fault-Yonne 
+268,
+269,
+270,
+271,
+272,    Brest 
+273,    Auray 
+274,    Saint-Malo 
+275,    Cholet 
+276,    Cholet 
+277,    Aigurande 
+278,    Brioude 
+279,    Figeac 
+280,    Toulouse 
+281,    Pau 
+282,    Lannemezan 
+283,    Lavelanet 
+284,    Narbonne 
+285,    Nîmes 
+286,    Embrun 
+287,    Cuneo 
+288,    Embrun 
+289,    Le Bourg-d'Oisans 
+290,    Roanne 
+291,    Cérilly 
+292,    Étampes 
+293,
+294,
+295,
+296,
+297,    London 
+298,    London 
+299,    Dunkerque 
+300,    Waregem 
+301,    Villers-Cotterêts 
+302,    Chablis 
+303,    Semur-en-Auxois 
+304,    Bourg-en-Bresse 
+305,    Le Grand Bornand 
+306,    Val-d'Isere 
+307,    Tallard 
+308,    Marseille 
+309,    Montpellier 
+310,    Albi 
+311,    Mazamet 
+312,    Foix-sur-Ariège 
+313,    Orthez 
+314,    Pau 
+315,    Cahors 
+316,    Cognac 
+317,    Marcoussis 
+318,
+319,
+320,
+321,    Strasbourg 
+322,    Strasbourg 
+323,    Obernai 
+324,    Esch-sur-Alzette 
+325,    Huy 
+326,    Beauvais 
+327,    Lisieux 
+328,    Saint-Grégoire 
+329,    Saint-Méen-le-Grand 
+330,    Bordeaux 
+331,    Cambo-les-Bains 
+332,    Tarbes 
+333,    Luchon 
+334,    Béziers 
+335,    Montélimar 
+336,    Gap 
+337,    Le Bourg-d'Oisans 
+338,    Saint-Jean-de-Maurienne 
+339,    Morzine 
+340,    Le Creusot 
+341,    Antony 
+342,
+343,
+344,
+345,
+346,    Fromentine 
+347,    Challans 
+348,    La Châtaigneraie 
+349,    Tours 
+350,    Chambord 
+351,    Troyes 
+352,    Lunéville 
+353,    Pforzheim 
+354,    Gérardmer 
+355,    Brignoud 
+356,    Courchevel 
+357,    Briançon 
+358,    Miramas 
+359,    Agde 
+360,    Lézat-sur-Lèze 
+361,    Mourenx 
+362,    Pau 
+363,    Albi 
+364,    Issoire 
+365,    Saint Etienne 
+366,    Corbeil-Essonnes 
+367,
+368,
+369,
+370,
+371,    Liège 
+372,    Liège 
+373,    Charleroi 
+374,    Waterloo 
+375,    Cambrai 
+376,    Amiens 
+377,    Bonneval 
+378,    Châteaubriant 
+379,    Lamballe 
+380,    Saint-Léonard-de-Noblat 
+381,    Limoges 
+382,    Saint-Flour 
+383,    Castelsarrasin 
+384,    Lannemezan 
+385,    Carcassonne 
+386,    Valréas 
+387,    Le Bourg-d'Oisans 
+388,    Le Bourg-d'Oisans 
+389,    Annemasse 
+390,    Besançon 
+391,    Montreau 
+392,
+393,
+394,
+395,
+396,    Paris 
+397,    Saint-Denis 
+398,    La Ferté-sous-Jouarre 
+399,    Charleville-Mézières 
+400,    Joinville 
+401,    Troyes 
+402,    Nevers 
+403,    Lyon 
+404,    Sallanches 
+405,    Le Bourg-d'Oisans 
+406,    Gap 
+407,    Narbonne 
+408,    Gaillac 
+409,    Toulouse 
+410,    Saint-Girons 
+411,    Bagnères-de-Bigorre 
+412,    Pau 
+413,    Dax 
+414,    Bordeaux 
+415,    Pornic 
+416,    Ville-d'Avray 
+417,
+418,
+419,
+420,
+421,    Luxembourg 
+422,    Luxembourg 
+423,    Luxembourg 
+424,    Metz 
+425,    Épernay 
+426,    Soissons 
+427,    Forges-les-Eaux 
+428,    Bagnoles-de-l'Orne 
+429,    Saint-Martin-de-Landelles 
+430,    Lanester 
+431,    Bazas 
+432,    Pau 
+433,    Lannemezan 
+434,    Lavelanet 
+435,    Lodève 
+436,    Vaison-la-Romaine 
+437,    Les Deux Alpes 
+438,    Aime 
+439,    Cluses 
+440,    Régnié 
+441,    Melun 
+442,
+443,
+444,
+445,
+446,    Dunkerque 
+447,    Saint-Omer 
+448,    Calais 
+449,    Antwerpen 
+450,    Huy 
+451,    Verdun 
+452,    Commercy 
+453,    Strasbourg 
+454,    Colmar 
+455,    Pontarlier 
+456,    Aix-les-Bains 
+457,    Grenoble 
+458,    Perpignan 
+459,    Foix-sur-Ariège 
+460,    Tarbes 
+461,    Pau 
+462,    Castelsarrasin 
+463,    Brive-la-Gaillarde 
+464,    Montluçon 
+465,    Orléans 
+466,    Corbeil-Essonnes 
+467,    Dunkerque 
+468,    Dunkerque 
+469,    Dunkerque 
+470,    Dunkerque 
+471,    Futuroscope 
+472,    Futuroscope 
+473,    Loudun 
+474,    Nantes 
+475,    Vannes 
+476,    Vitré 
+477,     
+478,    Limoges 
+479,    Agen 
+480,    Dax 
+481,    Bagnères-de-Bigorre 
+482,    Carpentras 
+483,    Avignon 
+484,    Draguignan 
+485,    Briançon 
+486,    Courchevel 
+487,    Évian-les-Bains 
+488,    Lausanne 
+489,    Freiburg im Breisgau 
+490,    Belfort 
+491,    Paris 
+492,    Futuroscope 
+493,    Futuroscope 
+494,    Futuroscope 
+495,    Le Puy 
+496,    Montaigu 
+497,    Challans 
+498,    Nantes 
+499,    Laval 
+500,    Bonneval 
+501,    Amiens 
+502,    Avesnes-sur-Helpe 
+503,    Metz 
+504,    Le Grand Bornand 
+505,    Sestriere 
+506,    Le Bourg-d'Oisans 
+507,    Saint-Galmier 
+508,    Saint-Flour 
+509,    Castres 
+510,    Saint-Gaudens 
+511,    Lannemezan 
+512,    Mourenx 
+513,    Jonzac 
+514,    Futuroscope 
+515,    Arpajon 
+516,
+517,
+518,
+519,    Dublin 
+520,    Dublin 
+521,    Enniscorthy 
+522,    Roscoff 
+523,    Plouay 
+524,    Cholet 
+525,    La Châtre 
+526,    Meyrignac-l'Eglise 
+527,    Brive-la-Gaillarde 
+528,    Montauban 
+529,    Pau 
+530,    Luchon 
+531,    Tarascon-sur-Ariège 
+532,    Frontignan 
+533,    Valréas 
+534,    Grenoble 
+535,    Vizille 
+536,    Albertville 
+537,    Aix-les-Bains 
+538,    La Chaux-de-Fonds 
+539,    Montceau-les-Mines 
+540,    Melun 
+541,
+542,
+543,
+544,    Dublin 
+545,    Rouen 
+546,    Rouen 
+547,    Saint-Valéry-en-Caux 
+548,     
+549,    Plumelec 
+550,    Chantonnay 
+551,    Le Blanc 
+552,    Marennes 
+553,    Sauternes 
+554,    Pau 
+555,    Luchon 
+556,    Andorra 
+557,    Saint-Etienne 
+558,    Saint-Etienne 
+559,    Le Bourg-d'Oisans 
+560,    Courchevel 
+561,    Morzine 
+562,    Fribourg 
+563,    Colmar 
+564,    Montbéliard 
+565,    Disneyland 
+566,    Disneyland 
+567,    Rouen 
+568,    Rouen 
+569,    Rouen 
+570,    Rouen 
+571,    's-Hertogenbosch 
+572,    's-Hertogenbosch 
+573,    's-Hertogenbosch 
+574,    Wasquehal 
+575,    Soissons 
+576,    Lac de Madine 
+577,    Arc-et-Senans 
+578,    Chambéry 
+579,    Bourg-Saint-Maurice 
+580,    Le Monêtier-les-Bains 
+581,    Torino 
+582,    Gap 
+583,    Valence 
+584,    Le Puy-en Velay 
+585,    Besse 
+586,    Brive-la-Gaillarde 
+587,    Agen 
+588,    Argelès-Gazost 
+589,    Pamplona 
+590,    Hendaye 
+591,    Bordeaux 
+592,    Palaiseau 
+593,    's-Hertogenbosch 
+594,    's-Hertogenbosch 
+595,    's-Hertogenbosch 
+596,    's-Hertogenbosch 
+597,    Saint-Brieuc 
+598,    Dinan 
+599,    Perros-Guirec 
+600,    Mayenne 
+601,    Alençon 
+602,    Fécamp 
+603,    Dunkerque 
+604,    Charleroi 
+605,    Huy 
+606,    Le Grand Bornand 
+607,    Aime 
+608,    Le Bourg-d'Oisans 
+609,    Saint-Étienne 
+610,    Mende 
+611,    Saint-Orens-de-Gameville 
+612,    Saint-Girons 
+613,    Tarbes 
+614,    Pau 
+615,    Montpon-Ménestérol 
+616,    Lac de Vassivière 
+617,    Sainte-Geneviève-des-Bois 
+618,
+619,
+620,
+621,
+622,    Lille 
+623,    Lille 
+624,    Roubaix 
+625,    Calais 
+626,    Dover 
+627,    Portsmouth 
+628,    Cherbourg 
+629,    Rennes 
+630,    Poitiers 
+631,    Périgueux 
+632,    Bergerac 
+633,    Cahors 
+634,    Lourdes 
+635,    Bagnères-de-Bigorre 
+636,    Castres 
+637,    Montpellier 
+638,    Valréas 
+639,    Le Bourg-d'Oisans 
+640,    Moutiers 
+641,    Cluses 
+642,    Morzine 
+643,    Disneyland 
+644,    Lille 
+645,    Lille 
+646,    Lille 
+647,    Lille 
+648,    Puy-du-Fou 
+649,    Luçon 
+650,    Les Sables-d'Olonne 
+651,    Vannes 
+652,    Dinard 
+653,    Avranches 
+654,    Avrieux 
+655,    Péronne 
+656,    Châlons-sur-Marne 
+657,    Lac de Madine 
+658,    Villard-de-Lans 
+659,    Briançon 
+660,    Isola 
+661,    Marseille 
+662,    Montpellier 
+663,    Perpignan 
+664,    Andorra 
+665,    Tarbes 
+666,    Orthez 
+667,    Brétigny-sur-Orge 
+668,    Viry-Châtillon 
+669,
+670,
+671,
+672,
+673,    Donostia/San Sebastián 
+674,    Donostia/San Sebastián 
+675,    Donostia/San Sebastián 
+676,    Pau 
+677,    Libourne 
+678,    Nogent-sur-Oise 
+679,    Roubaix 
+680,    Brussel/Bruxelles 
+681,    Valkenburg aan de Geul 
+682,    Luxembourg 
+683,    Luxembourg 
+684,    Strasbourg 
+685,    Dole 
+686,    Saint-Gervais 
+687,    Sestriere 
+688,    Le Bourg-d'Oisans 
+689,    Saint-Étienne 
+690,    La Bourboule 
+691,    Montluçon 
+692,     
+693,    Blois 
+694,    La Défense 
+695,    Donostia/San Sebastián 
+696,    Donostia/San Sebastián 
+697,    Donostia/San Sebastián 
+698,    Donostia/San Sebastián 
+699,    Lyon 
+700,    Lyon 
+701,    Bron 
+702,    Villeurbanne 
+703,    Dijon 
+704,    Reims 
+705,    Arras 
+706,    Le Havre 
+707,
+708,    Alençon 
+709,    Rennes 
+710,    Quimper 
+711,    Pau 
+712,    Jaca 
+713,    Saint-Gaudens 
+714,    Albi 
+715,    Alés 
+716,    Gap 
+717,    Le Bourg-d'Oisans 
+718,    Morzine 
+719,    Aix-les-Bains 
+720,    Lugny 
+721,    Melun 
+722,    Lyon 
+723,    Lyon 
+724,    Lyon 
+725,    Lyon 
+726,    Futuroscope 
+727,    Futuroscope 
+728,    Futuroscope 
+729,    Poitiers 
+730,    Nantes 
+731,    Avranches 
+732,    Sarrebourg 
+733,    Vittel 
+734,    Épinal 
+735,    Besançon 
+736,    Genève 
+737,    Saint-Gervais 
+738,    Fontaine 
+739,    Villard-de-Lans 
+740,    Le Puy-en Velay 
+741,    Millau 
+742,    Blagnac 
+743,    Lourdes 
+744,    Pau 
+745,    Castillon-la-Bataille 
+746,    Lac de Vassivière 
+747,    Brétigney 
+748,    Futuroscope 
+749,    Futuroscope 
+750,    Futuroscope 
+751,    Futuroscope 
+752,    Luxembourg 
+753,    Luxembourg 
+754,    Luxembourg 
+755,    Luxembourg 
+756,    Liège 
+757,    Dinard 
+758,    Rennes 
+759,    Poitiers 
+760,    Marmande 
+761,    Pau 
+762,    Cauterets 
+763,    Luchon 
+764,    Toulouse 
+765,    Montpellier 
+766,    Marseille 
+767,    Gap 
+768,    Gap 
+769,    Briançon 
+770,    Le Bourg-d'Oisans 
+771,    Villard-de-Lans 
+772,    Aix-les-Bains 
+773,    Versailles 
+774,
+775,
+776,
+777,
+778,
+779,    Pornichet 
+780,    La Haie-Fouassière 
+781,    La Haie-Fouassière 
+782,    Nantes 
+783,    Le Mans 
+784,    Neufchâtel-en-Bray 
+785,    Liévin 
+786,    Wasquehal 
+787,    Reims 
+788,    Nancy 
+789,    Belfort 
+790,    Besançon 
+791,    Morzine 
+792,    Grenoble 
+793,    Blagnac 
+794,    Saint-Girons 
+795,    Tarbes 
+796,    Pau 
+797,    Ruelle-sur-Touvre 
+798,    Limoges 
+799,    Clermont-Ferrand 
+800,    Santenay 
+801,    Nemours 
+802,    Pornichet 
+803,    Pornichet 
+804,    Pornichet 
+805,    Pornichet 
+806,    Berlin 
+807,    Berlin 
+808,    Berlin 
+809,    Karlsruhe 
+810,    Stuttgart 
+811,    Pforzheim 
+812,    Strasbourg 
+813,    Épinal 
+814,    Troyes 
+815,    Orléans 
+816,    Saumur 
+817,    Poitiers 
+818,    Brive-la-Gaillarde 
+819,    Bayonne 
+820,    Pau 
+821,    Tarbes 
+822,    Blagnac 
+823,    Millau 
+824,    Carpentras 
+825,    Valréas 
+826,    Villard-de-Lans 
+827,    Le Bourg-d'Oisans 
+828,    La Plagne  
+829,    Saint-Julien-en-Genevois 
+830,    Dijon 
+831,    Créteil 
+832,    Berlin 
+833,    Berlin 
+834,
+835,
+836,    Boulogne-Billancourt 
+837,    Nanterre 
+838,    Meudon 
+839,    Levallois-Perret 
+840,    Liévin 
+841,    Evreux-le-Coudray 
+842,    Villers-sur-Mer 
+843,    Cherbourg 
+844,    Nantes 
+845,    Poitiers 
+846,    Saint-Hilaire-du-Harcouët 
+847,    Nantes 
+848,    Bayonne 
+849,    Pau 
+850,    Luchon 
+851,    Carcassonne 
+852,    Nîmes 
+853,    Gap 
+854,    Briançon 
+855,    Villard-de-Lans 
+856,    Saint-Etienne 
+857,    Saint-Etienne 
+858,    Clermont-Ferrand 
+859,    Cosne-sur-Loire 
+860,
+861,    Boulogne-Billancourt 
+862,    Boulogne-Billancourt 
+863,    Boulogne-Billancourt 
+864,    Plumelec 
+865,    Vannes 
+866,    Lorient 
+867,    Vitré 
+868,    Fougères 
+869,    Neufchâtel-en-Bray 
+870,    Tourcoing 
+871,    Reims 
+872,    Sarrebourg 
+873,    Strasbourg 
+874,    Épinal 
+875,    Pontarlier 
+876,    Morzine 
+877,    Villard-de-Lans 
+878,    Autrans 
+879,    Saint-Étienne 
+880,    Aurillac 
+881,    Toulouse 
+882,    Luz-Saint-Sauveur 
+883,    Laruns 
+884,    Pau 
+885,    Montpon-Ménestérol 
+886,    Lac de Vassivière 
+887,    Orléans 
+888,    Plumelec 
+889,    Plumelec 
+890,    Plumelec 
+891,    Plumelec 
+892,    Plumelec 
+893,    Plumelec 
+894,    Plumelec 
+895,    Montreuil-sous-Bois 
+896,    Bondy 
+897,    Bobigny 
+898,    Louvroil 
+899,    Valenciennes 
+900,    Béthune 
+901,    Cergy-Pontoise 
+902,    Alençon 
+903,    Le Mans 
+904,    Nantes 
+905,    Bordeaux 
+906,    Pau 
+907,    Saint-Girons 
+908,    Blagnac 
+909,    Rodez 
+910,    Domaine du Rouret  
+911,    Les Échelles 
+912,    Grenoble 
+913,    L'Alpe-d'Huez 
+914,    La Plaine 
+915,    Morzine 
+916,    Crans 
+917,    Villié-Morgon 
+918,    Pantin 
+919,    Montreuil-sous-Bois 
+920,    Montreuil-sous-Bois 
+921,    Montreuil-sous-Bois 
+922,    Montreuil-sous-Bois 
+923,    Montreuil-sous-Bois 
+924,    Fontenay-sous-Bois 
+925,    Nogent-sur-Marne 
+926,    Soissons 
+927,    Valenciennes 
+928,    Roubaix 
+929,    Le Havre 
+930,    Châteaubriant 
+931,    Nantes 
+932,    La Rochelle 
+933,    Bordeaux 
+934,    Pau 
+935,    Luchon 
+936,    Fleurance 
+937,    Roquefort 
+938,    Aurillac 
+939,    Clermont-Ferrand 
+940,    Issoire 
+941,    La Tour-du-Pin 
+942,    L'Alpe-d'Huez 
+943,    Morzine 
+944,    Morzine 
+945,    Dijon 
+946,    Alfortville 
+947,    Fontenay-sous-Bois 
+948,    Fontenay-sous-Bois 
+949,    Fontenay-sous-Bois 
+950,    Fontenay-sous-Bois 
+951,    Fontenay-sous-Bois 
+952,    Basel 
+953,    Schupfart 
+954,    Basel 
+955,    Nancy 
+956,    Beaurain 
+957,    Orchies 
+958,    Lille 
+959,    Cancale 
+960,    Concarneau 
+961,    Lorient 
+962,    Plumelec 
+963,    Saintes 
+964,    Valence-d'Agen 
+965,    Fleurance 
+966,    Pau 
+967,    Martigues 
+968,    Manosque 
+969,    Orcières 
+970,    L'Alpe-d'Huez 
+971,    Morzine 
+972,    Saint-Priest 
+973,    Sens 
+974,    Fontenay-sous-Bois 
+975,    Basel 
+976,    Basel 
+977,    Basel 
+978,    Basel 
+979,    Basel 
+980,    Basel 
+981,    Nice 
+982,    Nice 
+983,    Nice 
+984,    Nice 
+985,    Martigues 
+986,    Narbonne 
+987,    Saint-Gaudens 
+988,    Nay 
+989,    Pau 
+990,    Rochefort 
+991,    Nantes 
+992,    Le Mans 
+993,    Compiègne 
+994,    Roubaix 
+995,    Brussel/Bruxelles 
+996,    Beringen 
+997,    Mulhouse 
+998,    Besançon 
+999,    Thonon-les-Bains 
+1000,    Morzine 
+1001,    Le Bourg-d'Oisans 
+1002,    Veurey-Voroize 
+1003,    Saint-Priest 
+1004,    Auxerre 
+1005,    Fontenay-sous-Bois 
+1006,    Nice 
+1007,    Nice 
+1008,    Nice 
+1009,    Nice 
+1010,
+1011,
+1012,    Wiesbaden 
+1013,
+1014,    Metz 
+1015,    Spa 
+1016,    Luik 
+1017,    Lille 
+1018,    Compiègne 
+1019,    Beauvais 
+1020,    Flers 
+1021,    Saint-Malo 
+1022,    Rochefort 
+1023,    Damazan 
+1024,    Agen 
+1025,    Pau 
+1026,    Lézignan-Corbières 
+1027,    Montpellier 
+1028,    Trets 
+1029,    Briançon 
+1030,    Morzine 
+1031,    Voreppe 
+1032,    Saint-Etienne 
+1033,    Auxerre 
+1034,    Fontenay-sous-Bois 
+1035,
+1036,
+1037,    Frankfurt am Main 
+1038,
+1039,    Fleurance 
+1040,    Fleurance 
+1041,    Luchon 
+1042,    Luchon 
+1043,    Captieux 
+1044,    Neuville 
+1045,    Angers 
+1046,    Saint-Hilaire-du-Harcouët 
+1047,    Deauville 
+1048,    Amiens 
+1049,    Roubaix 
+1050,    Brussel/Bruxelles 
+1051,    Rochefort 
+1052,    Metz 
+1053,    Belfort 
+1054,    Évian 
+1055,    Morzine 
+1056,    Les Menuires 
+1057,    L'Alpe-d'Huez 
+1058,    L'Alpe-d'Huez 
+1059,    Saint-Priest 
+1060,    Dijon 
+1061,    Dijon 
+1062,    Auxerre 
+1063,    Le Perreux-Sur-Marne 
+1064,    Fleurance 
+1065,    Fleurance 
+1066,    Fleurance 
+1067,    Fleurance 
+1068,    Leiden 
+1069,    Leiden 
+1070,    Sint Willebrord 
+1071,    Brussel/Bruxelles 
+1072,    Saint-Amand-les-Eaux 
+1073,    Évreux 
+1074,    Caen 
+1075,    Mazé 
+1076,    Poitiers 
+1077,    Saint-Émilion 
+1078,    Bordeaux 
+1079,    Biarritz 
+1080,    Pau 
+1081,    Tarbes 
+1082,    Valence-d'Agen 
+1083,    Figeac 
+1084,    Besse-en-Chandesse 
+1085,    Saint-Dier-d'Auvergne 
+1086,    Saint-Étienne 
+1087,    Grenoble 
+1088,    Morzine 
+1089,    Lausanne 
+1090,    Metz 
+1091,    Epernay 
+1092,    Saint-Germain-en-Laye 
+1093,    Leiden 
+1094,    Leiden 
+1095,    Leiden 
+1096,    Leiden 
+1097,    Fleurance 
+1098,    Fleurance 
+1099,    Auch 
+1100,    Oloron-Sainte-Marie 
+1101,    Vitoria 
+1102,    Morcenx 
+1103,    Bordeaux 
+1104,    Bordeaux 
+1105,    Jaunay-Clan 
+1106,    Angers 
+1107,    Angers 
+1108,    Lorient 
+1109,    Bagnoles-de-l'Orne 
+1110,    Rouen 
+1111,    Roubaix 
+1112,    Freiburg im Breisgau 
+1113,    Altkirch 
+1114,    Besançon 
+1115,    Thonon-les-Bains 
+1116,    Morzine 
+1117,    Morzine 
+1118,    Chamonix 
+1119,    Rossignol 
+1120,    Saint-Trivier 
+1121,    Dijon 
+1122,    Montereau 
+1123,    Paris 
+1124,    Paris 
+1125,    Fleurance 
+1126,    Fleurance 
+1127,    Fleurance 
+1128,    Fleurance 
+1129,    Saint-Jean-de-Monts 
+1130,    Saint-Jean-de-Monts 
+1131,    Angers 
+1132,    Le Touquet-Paris-Plage 
+1133,    Le Touquet 
+1134,    Leuven 
+1135,    Leuven 
+1136,    Bastogne 
+1137,    Nancy 
+1138,    Valentigney 
+1139,    Divonne-les-Bains 
+1140,    Le Bourg-d'Oisans 
+1141,    Montgenèvre 
+1142,    Le Barcarès 
+1143,    Font Romeu Ermitage 
+1144,    Saint-Gaudens 
+1145,    Saint-Lary 
+1146,    Pau 
+1147,    Fleurance 
+1148,    Auch 
+1149,    Langon 
+1150,    Lacanau-Océan 
+1151,    Sainte-Foy-la-Grande 
+1152,    Tulle 
+1153,    Montargis 
+1154,    Paris 
+1155,    Paris 
+1156,    Saint-Jean-de-Monts 
+1157,    Saint-Jean-de-Monts 
+1158,    Saint-Jean-de-Monts 
+1159,    Saint-Jean-de-Monts 
+1160,    Charleroi 
+1161,    Charleroi 
+1162,    Brussel/Bruxelles 
+1163,    Roubaix 
+1164,    Amiens 
+1165,    Versailles 
+1166,    Sablé-sur-Sarthe 
+1167,    Merlin-Plage 
+1168,    Croix-de-Vie 
+1169,    Angoulême 
+1170,    Langon 
+1171,    Fleurance 
+1172,    Auch 
+1173,    Pau 
+1174,    Tarbes 
+1175,    Albi 
+1176,    Aurillac 
+1177,    Nice 
+1178,    Barcelonnette 
+1179,    Valloire 
+1180,    Morzine 
+1181,    Thonon-les-Bains 
+1182,    Pouilly-en-Auxois 
+1183,    Melun 
+1184,    Paris 
+1185,    Charleroi 
+1186,    Charleroi 
+1187,    Charleroi 
+1188,    Charleroi 
+1189,    Brest 
+1190,    Brest 
+1191,    Plymouth 
+1192,    Morlaix 
+1193,    Saint-Malo 
+1194,    Caen 
+1195,    Dieppe 
+1196,    Harelbeke 
+1197,    Mons 
+1198,    Châlons-sur-Marne 
+1199,    Chaumont 
+1200,    Besançon 
+1201,    Gaillard 
+1202,    Aix-les-Bains 
+1203,    Savines-le-Lac 
+1204,    Avignon 
+1205,    Lodève 
+1206,    Colomiers 
+1207,    Seo de Urgel 
+1208,    Saint-Lary 
+1209,    Bagnères-de-Bigorre 
+1210,    Pau 
+1211,    Bordeaux 
+1212,    Croix-de-Vie 
+1213,    Vouvray 
+1214,    Orléans 
+1215,    Orléans 
+1216,    Brest 
+1217,    Brest 
+1218,    Brest 
+1219,    Scheveningen 
+1220,    Scheveningen 
+1221,    Rotterdam 
+1222,    Sint-Niklaas 
+1223,    Sint-Niklaas 
+1224,    Roubaix 
+1225,    Reims 
+1226,    Nancy 
+1227,    Belfort 
+1228,    Divonne-les-Bains 
+1229,    Gaillard 
+1230,    Moutiers 
+1231,    Embrun 
+1232,    Nice 
+1233,    Montpellier 
+1234,    Perpignan 
+1235,    Thuir 
+1236,    Bourg-Madame 
+1237,    Luchon 
+1238,    Pau 
+1239,    Fleurance 
+1240,    Bordeaux 
+1241,    Saint-Foy 
+1242,    Brive-la-Gaillarde 
+1243,    Bourges 
+1244,    Versailles 
+1245,    Versailles 
+1246,
+1247,
+1248,
+1249,
+1250,    Angers 
+1251,    Angers 
+1252,    Saint-Brieuc 
+1253,    Pornichet 
+1254,    Merlin-Plage 
+1255,    Merlin-Plage 
+1256,    Royan 
+1257,    Bordeaux 
+1258,    Bordeaux 
+1259,    Bayonne 
+1260,    Pau 
+1261,    Luchon 
+1262,    Castres 
+1263,    Carnon-Plage 
+1264,    Carpentras 
+1265,    Orcières 
+1266,    Briançon 
+1267,    Valloire 
+1268,    Aix-les-Bains 
+1269,    Aix-les-Bains 
+1270,    Pontarlier 
+1271,    Belfort 
+1272,    Auxerre 
+1273,    Versailles 
+1274,    Versailles 
+1275,    Angers 
+1276,    Angers 
+1277,    Angers 
+1278,    Mulhouse 
+1279,    Mulhouse 
+1280,    Basel 
+1281,    Freiburg im Breisgau 
+1282,    Mulhouse 
+1283,    Strasbourg 
+1284,    Nancy 
+1285,    Dinant 
+1286,    Roubaix 
+1287,    Amiens 
+1288,    Rungis 
+1289,    Nevers 
+1290,    Clermont-Ferrand 
+1291,    Saint-Étienne 
+1292,    Grenoble 
+1293,    Orcières 
+1294,    Albi 
+1295,    Revel 
+1296,    Luchon 
+1297,    Luchon 
+1298,    Gourette 
+1299,    Mont-de-Marsan 
+1300,    Bordeaux 
+1301,    Blois 
+1302,    Versailles 
+1303,    Mulhouse 
+1304,    Mulhouse 
+1305,    Mulhouse 
+1306,    Limoges 
+1307,    Limoges 
+1308,    La Rochelle 
+1309,    Angers 
+1310,    Angers 
+1311,    Rennes 
+1312,    Lisieux 
+1313,    Rouen 
+1314,    Amiens 
+1315,    Valenciennes 
+1316,    Vorst 
+1317,    Ciney 
+1318,    Saarlouis 
+1319,    Belfort 
+1320,    Divonne-les-Bains 
+1321,    Divonne-les-Bains 
+1322,    Thonon-les-Bains 
+1323,    Grenoble 
+1324,    Gap 
+1325,    Carpentras 
+1326,    Montpellier 
+1327,    Toulouse 
+1328,    Saint-Gaudens 
+1329,    Bagnères-de-Bigorre 
+1330,    Mourenx 
+1331,    Bordeaux 
+1332,    Ruffec 
+1333,     
+1334,    Versailles 
+1335,
+1336,    Limoges 
+1337,    Limoges 
+1338,    Roubaix 
+1339,    Roubaix 
+1340,    Sint-Pieters-Woluwe 
+1341,    Sint-Pieters-Woluwe 
+1342,    Maastricht 
+1343,    Charleville-Mézières 
+1344,    Nancy 
+1345,    Mulhouse 
+1346,    Belfort 
+1347,    Divonne-les-Bains 
+1348,    Divonne-les-Bains 
+1349,    Thonon-les-Bains 
+1350,    Chamonix 
+1351,    Briançon 
+1352,    Digne 
+1353,    Aubagne 
+1354,    La Grande Motte 
+1355,    Revel 
+1356,    Revel 
+1357,    Luchon 
+1358,    Mourenx 
+1359,    Bordeaux 
+1360,    Brive-la-Gaillarde 
+1361,    Clermont-Ferrand 
+1362,    Montargis 
+1363,    Créteil 
+1364,    Roubaix 
+1365,    Roubaix 
+1366,    Roubaix 
+1367,    Vittel 
+1368,    Vittel 
+1369,    Arlon 
+1370,    Vorst 
+1371,    Vorst 
+1372,    Roubaix 
+1373,    Rouen 
+1374,    Bagnoles-de-l'Orne 
+1375,    Dinard 
+1376,    Lorient 
+1377,    Nantes 
+1378,    Royan 
+1379,    Bordeaux 
+1380,    Bayonne 
+1381,    Pau 
+1382,    Saint-Gaudens 
+1383,    Seo de Urgel 
+1384,    Font Romeu Ermitage 
+1385,    Albi 
+1386,    Aurillac 
+1387,    Saint-Etienne 
+1388,    Grenoble 
+1389,    Sallanches 
+1390,    Besançon 
+1391,    Auxerre 
+1392,    Melun 
+1393,    Vittel 
+1394,    Vittel 
+1395,    Vittel 
+1396,    Angers 
+1397,    Angers 
+1398,    Saint-Malo 
+1399,    Caen 
+1400,    Amiens 
+1401,    Roubaix 
+1402,    Jambes 
+1403,    Jambles 
+1404,    Metz 
+1405,    Strasbourg 
+1406,    Belfort 
+1407,    Divonne 
+1408,    Briançon 
+1409,    Digne 
+1410,    Marseille 
+1411,    Carpentras 
+1412,    Sète 
+1413,    Toulouse 
+1414,    Luchon 
+1415,    Pau 
+1416,    Bordeaux 
+1417,    Limoges 
+1418,    Clermont 
+1419,    Fontainebleau 
+1420,    Versailles 
+1421,    Angers 
+1422,    Angers 
+1423,    Angers 
+1424,    Nancy 
+1425,    Charleville 
+1426,    Doornik 
+1427,    Doornik 
+1428,    Dunkerque 
+1429,    Dieppe 
+1430,    Caen 
+1431,    Angers 
+1432,    Royan 
+1433,    Bordeaux 
+1434,    Bayonne 
+1435,    Pau 
+1436,    Luchon 
+1437,    Revel 
+1438,    Montpellier 
+1439,    Vals-les-Bains 
+1440,    Privas 
+1441,    Le Bourg-d'Oisans 
+1442,    Briançon 
+1443,    Ivrea 
+1444,    Chamonix 
+1445,    Saint-Étienne 
+1446,    Montluçon 
+1447,    Orléans 
+1448,    Rambouillet 
+1449,    Nancy 
+1450,    Nancy 
+1451,    Nancy 
+1452,    Köln 
+1453,    Liège 
+1454,    Liège 
+1455,    Roubaix 
+1456,    Caen 
+1457,    Saint-Brieuc 
+1458,    Châteaulin 
+1459,    Quimper 
+1460,    Pornichet 
+1461,    La Rochelle 
+1462,    Dax 
+1463,    Bagnères-de-Bigorre 
+1464,    Ax-les-Thermes 
+1465,    Barcelona 
+1466,    Perpignan 
+1467,    Montpellier 
+1468,    Carpentras 
+1469,    Gap 
+1470,    Briançon 
+1471,    Aix-les-Bains 
+1472,    Aix-les-Bains 
+1473,    Lyon 
+1474,    Auxerre 
+1475,    Versailles 
+1476,    Köln 
+1477,
+1478,
+1479,    Rennes 
+1480,    Lisieux 
+1481,    Amiens 
+1482,    Vorst 
+1483,    Vorst 
+1484,    Lunéville 
+1485,    Freiburg im Breisgau 
+1486,    Besançon 
+1487,    Thonon-les-Bains 
+1488,    Briançon 
+1489,    Monaco 
+1490,    Hyères 
+1491,    Toulon 
+1492,    Montpellier 
+1493,    Perpignan 
+1494,    Andorra 
+1495,    Toulouse 
+1496,    Luchon 
+1497,    Peyrehorade 
+1498,    Bayonne 
+1499,    Bordeaux 
+1500,    Brive-la-Gaillarde 
+1501,    Clermont-Ferrand 
+1502,    Orléans 
+1503,    Versailles 
+1504,
+1505,
+1506,
+1507,    Paris 
+1508,    Reims 
+1509,    Jambes 
+1510,    Jambes 
+1511,    Roubaix 
+1512,    Rouen 
+1513,    Rennes 
+1514,    Angers 
+1515,    Angers 
+1516,    Limoges 
+1517,    Bordeaux 
+1518,    Pau 
+1519,    Bagnères-de-Bigorre 
+1520,    Luchon 
+1521,    Toulouse 
+1522,    Aurillac 
+1523,    Saint-Étienne 
+1524,    Grenoble 
+1525,    Val-d'Isere 
+1526,    Chamonix 
+1527,    Arbois 
+1528,    Besançon 
+1529,    Troyes 
+1530,    Paris 
+1531,    Paris 
+1532,    Paris 
+1533,    Nancy 
+1534,    Spa 
+1535,    Herentals 
+1536,    Brussel/Bruxelles 
+1537,    Amiens 
+1538,    Pont-l'Eveque 
+1539,    Dinard 
+1540,    Quimper 
+1541,    Saint-Nazaire 
+1542,    Luçon 
+1543,    La Rochelle 
+1544,    Bordeaux 
+1545,    Bayonne 
+1546,    Pau 
+1547,    Luchon 
+1548,    Luchon 
+1549,    Carcassonne 
+1550,    Montpellier 
+1551,    Aix-en-Provence 
+1552,    Juan-les-Pins 
+1553,    Briançon 
+1554,    Bourgoin 
+1555,    Lyon 
+1556,    Nevers 
+1557,    Nancy 
+1558,    Nancy 
+1559,    Nancy 
+1560,    Rouen 
+1561,    Versailles 
+1562,    Pontoise 
+1563,    Roubaix 
+1564,    Charleroi 
+1565,    Metz 
+1566,    Strasbourg 
+1567,    Belfort 
+1568,    Chalon-sur-Saône 
+1569,    Saint-Étienne 
+1570,    Grenoble 
+1571,    Torino 
+1572,    Juan-les-Pins 
+1573,    Aix-en-Provence 
+1574,    Montpellier 
+1575,    Perpignan 
+1576,    Toulouse 
+1577,    Luchon 
+1578,    Pau 
+1579,    Bergerac 
+1580,    Périgueux 
+1581,     
+1582,    Rouen 
+1583,    Rouen 
+1584,    Rouen 
+1585,    Lille 
+1586,    Brussel/Bruxelles 
+1587,    Brussel/Bruxelles 
+1588,    Malo-les-Bains 
+1589,    Dieppe 
+1590,    Caen 
+1591,    Saint-Malo 
+1592,    Lorient 
+1593,    Angers 
+1594,    Limoges 
+1595,    Mont-de-Marsan 
+1596,    Pau 
+1597,    Luchon 
+1598,    Toulouse 
+1599,    Millau 
+1600,    Avignon 
+1601,    Gap 
+1602,    Briançon 
+1603,    Aix-les-Bains 
+1604,    Pontarlier 
+1605,    Besançon 
+1606,    Troyes 
+1607,    Lille 
+1608,    Lille 
+1609,    Lille 
+1610,    Mulhouse 
+1611,    Metz 
+1612,    Namur 
+1613,    Roubaix 
+1614,    Rouen 
+1615,    Blain 
+1616,    Nantes 
+1617,    La Rochelle 
+1618,    Bordeaux 
+1619,    Bayonne 
+1620,    Bagnères-de-Bigorre 
+1621,    Saint-Gaudens 
+1622,    Albi 
+1623,    Aurillac 
+1624,    Puy de Dôme 
+1625,    Clermont-Ferrand 
+1626,    Saint-Étienne 
+1627,    Le Lautaret 
+1628,
+1629,    Annecy 
+1630,    Seurre 
+1631,    Dijon 
+1632,    Mulhouse 
+1633,    Mulhouse 
+1634,    Mulhouse 
+1635,    Brussel/Bruxelles 
+1636,    Gent 
+1637,    Dunkerque 
+1638,    Le Tréport 
+1639,    Versailles 
+1640,    Caen 
+1641,    Saint-Brieuc 
+1642,    Châteaulin 
+1643,    Quimper 
+1644,    Saint-Nazaire 
+1645,    Royan 
+1646,    Bordeaux 
+1647,    Dax 
+1648,    Pau 
+1649,    Luchon 
+1650,    Toulouse 
+1651,    Béziers 
+1652,    Mont Ventoux 
+1653,    Carpentras 
+1654,    Gap 
+1655,    Briançon 
+1656,    Aix-les-Bains 
+1657,    Besançon 
+1658,    Dijon 
+1659,
+1660,
+1661,
+1662,    Nantes 
+1663,    Granville 
+1664,    Caen 
+1665,    Caen 
+1666,    Rouen 
+1667,    Roubaix 
+1668,    Charleroi 
+1669,    Metz 
+1670,    Colmar 
+1671,    Besançon 
+1672,    Thonon-les-Bains 
+1673,    Briançon 
+1674,    Cannes 
+1675,    Marseille 
+1676,    Alés 
+1677,    Perpignan 
+1678,    Montjuich 
+1679,    Barcelona 
+1680,    Ax-les-Thermes 
+1681,    Saint-Gaudens 
+1682,    Pau 
+1683,    Bordeaux 
+1684,    Libourne 
+1685,    Tours 
+1686,    Nantes 
+1687,    Nantes 
+1688,    Nantes 
+1689,    Reims 
+1690,    Liège 
+1691,    Lille 
+1692,    Rouen 
+1693,    Rouen 
+1694,    Caen 
+1695,    Saint-Malo 
+1696,    Lorient 
+1697,    Angers 
+1698,    La Rochelle 
+1699,    Bordeaux 
+1700,    Bayonne 
+1701,    Pau 
+1702,    Luchon 
+1703,    Toulouse 
+1704,    Montpellier 
+1705,    Aix-en-Provence 
+1706,    Gap 
+1707,    Turin 
+1708,    Grenoble 
+1709,    Saint-Etienne 
+1710,    Lyon 
+1711,    Montluçon 
+1712,    Reims 
+1713,    Reims 
+1714,    Reims 
+1715,    Le Havre 
+1716,    Dieppe 
+1717,    Dieppe 
+1718,    Roubaix 
+1719,    Namur 
+1720,    Metz 
+1721,    Colmar 
+1722,    Zürich 
+1723,    Thonon-les-Bains 
+1724,    Briançon 
+1725,    Monaco 
+1726,    Marseille 
+1727,    Avignon 
+1728,    Millau 
+1729,    Albi 
+1730,    Narbonne 
+1731,    Ax-les-Thermes 
+1732,    Toulouse 
+1733,    Saint-Gaudens 
+1734,    Pau 
+1735,    Bordeaux 
+1736,    Châtellerault 
+1737,     
+1738,    Le Havre 
+1739,    Le Havre 
+1740,    Le Havre 
+1741,    Amsterdam 
+1742,    Beveren-Waas 
+1743,    Lille 
+1744,    Rouen 
+1745,    Rouen 
+1746,    Caen 
+1747,    Saint-Brieuc 
+1748,    Brest 
+1749,    Vannes 
+1750,    Angers 
+1751,    Bordeaux 
+1752,    Bayonne 
+1753,    Pau 
+1754,    Luchon 
+1755,    Toulouse 
+1756,    Millau 
+1757,    Le Puy 
+1758,    Lyon 
+1759,    Grenoble 
+1760,    Briançon 
+1761,    Aix-les-Bains 
+1762,    Besançon 
+1763,    Épinal 
+1764,    Nancy 
+1765,    Troyes 
+1766,
+1767,
+1768,
+1769,    Strasbourg 
+1770,    Metz 
+1771,    Liège 
+1772,    Lille 
+1773,    Dieppe 
+1774,    Caen 
+1775,    Le Mans 
+1776,    Nantes 
+1777,    Bordeaux 
+1778,    Pau 
+1779,    Cauterets 
+1780,    Luchon 
+1781,    Albi 
+1782,    Béziers 
+1783,    Nîmes 
+1784,    Marseille 
+1785,    Monaco 
+1786,    Gap 
+1787,    Briançon 
+1788,    Lyon 
+1789,    Saint-Étienne 
+1790,    Montluçon 
+1791,    Strasbourg 
+1792,    Strasbourg 
+1793,    Strasbourg 
+1794,    Brest 
+1795,    Rennes 
+1796,    Le Mans 
+1797,    Rouen 
+1798,    Roubaix 
+1799,    Namur 
+1800,    Metz 
+1801,    Nancy 
+1802,    Mulhouse 
+1803,    Lausanne 
+1804,    Le Bourg-d'Oisans 
+1805,    Sestrières 
+1806,    Monaco 
+1807,    Aix-en-Provence 
+1808,    Avignon 
+1809,    Perpignan 
+1810,    Toulouse 
+1811,    Bagnères-de-Bigorre 
+1812,    Pau 
+1813,    Bordeaux 
+1814,    Limoges 
+1815,    Clermont-Ferrand 
+1816,    Vichy 
+1817,    Brest 
+1818,    Brest 
+1819,    Metz 
+1820,    Reims 
+1821,    Gent 
+1822,    Le Tréport 
+1823,    Paris 
+1824,    Caen 
+1825,    La Guerche 
+1826,    Angers 
+1827,    Limoges 
+1828,    Clermont-Ferrand 
+1829,    Brive-la-Gaillarde 
+1830,    Agen 
+1831,    Dax 
+1832,    Tarbes 
+1833,    Luchon 
+1834,    Carcassonne 
+1835,    Montpellier 
+1836,    Avignon 
+1837,    Marseille 
+1838,    Gap 
+1839,    Briançon 
+1840,    Aix-les-Bains 
+1841,     
+1842,    Dijon 
+1843,    Metz 
+1844,    Metz 
+1845,    Paris 
+1846,    Metz 
+1847,    Liège 
+1848,    Lille 
+1849,    Rouen 
+1850,    Dinard 
+1851,    Saint-Brieuc 
+1852,    Angers 
+1853,    Niort 
+1854,    Bordeaux 
+1855,    Pau 
+1856,    Saint-Gaudens 
+1857,    Perpignan 
+1858,    Nîmes 
+1859,    Toulon 
+1860,    Menton 
+1861,    Nice 
+1862,    Gap 
+1863,    Briançon 
+1864,    Saint-Étienne 
+1865,    Lyon 
+1866,    Dijon 
+1867,    Paris 
+1868,    Paris 
+1869,    Paris 
+1870,    Reims 
+1871,    Brussel/Bruxelles 
+1872,    Boulogne-sur-Mer 
+1873,    Rouen 
+1874,    Saint-Malo 
+1875,    Les Sables-d'Olonne 
+1876,    La Rochelle 
+1877,    Bordeaux 
+1878,    Donostia/San Sebastián 
+1879,    Pau 
+1880,    Luchon 
+1881,    Toulouse 
+1882,    Nîmes 
+1883,    Marseille 
+1884,    Cannes 
+1885,    Briançon 
+1886,
+1887,    Lausanne 
+1888,    Colmar 
+1889,    Nancy 
+1890,    Paris 
+1891,    Paris 
+1892,    Paris 
+1893,    Trouville 
+1894,    Dinard 
+1895,    Nantes 
+1896,    La Rochelle 
+1897,    Bordeaux 
+1898,    Biarritz 
+1899,    Lourdes 
+1900,    Toulouse 
+1901,    Montpellier 
+1902,    Marseille 
+1903,
+1904,    Cannes 
+1905,    Briançon 
+1906,    Aix-les-Bains 
+1907,    Lausanne 
+1908,    Mulhouse 
+1909,    Strasbourg 
+1910,    Metz 
+1911,    Liège 
+1912,    Roubaix 
+1913,    Paris 
+1914,    Paris 
+1915,    Paris 
+1916,    Lille 
+1917,    Brussel/Bruxelles 
+1918,    Luxembourg 
+1919,    Strasbourg 
+1920,    Besançon 
+1921,    Lyon 
+1922,    Grenoble 
+1923,    Briançon 
+1924,    Digne 
+1925,    Nice 
+1926,    Marseille 
+1927,    Montpellier 
+1928,    Carcassonne 
+1929,    Luchon 
+1930,    Pau 
+1931,    Bordeaux 
+1932,    Les Sables-d'Olonne 
+1933,    Vannes 
+1934,    Saint-Brieuc 
+1935,    Caen 
+1936,    Paris 
+1937,    Paris 
+1938,    Paris 
+1939,    Caen 
+1940,    Vire 
+1941,    Rennes 
+1942,    Brest 
+1943,    Lorient 
+1944,    Nantes 
+1945,    La Rochelle 
+1946,    Royan 
+1947,    Bordeaux 
+1948,    Salies-de-Béarn 
+1949,    Pau 
+1950,    Toulouse 
+1951,    Narbonne 
+1952,    Béziers 
+1953,    Montpellier 
+1954,    Marseille 
+1955,    Saint-Raphaël 
+1956,    Monaco 
+1957,    Monaco 
+1958,    Digne 
+1959,    Briançon 
+1960,    Bonneval-sur-Arc 
+1961,    Bourg-Saint-Maurice 
+1962,    Annecy 
+1963,    Dole 
+1964,    Dijon 
+1965,    Troyes 
+1966,    Paris 
+1967,    Paris 
+1968,    Paris 
+1969,    Caen 
+1970,    Saint-Brieuc 
+1971,    La Roche-sur-Yon 
+1972,    La Roche-sur-Yon 
+1973,    La Rochelle 
+1974,    Royan 
+1975,    Bordeaux 
+1976,    Arcachon 
+1977,    Bayonne 
+1978,    Pau 
+1979,    Luchon 
+1980,    Perpignan 
+1981,    Narbonne 
+1982,    Béziers 
+1983,    Montpellier 
+1984,    Marseille 
+1985,    Cannes 
+1986,    Digne 
+1987,    Briançon 
+1988,    Aix-les-Bains 
+1989,    Besançon 
+1990,    Belfort 
+1991,    Strasbourg 
+1992,    Metz 
+1993,    Reims 
+1994,    Laon 
+1995,    Saint-Quentin 
+1996,    Lille 
+1997,
+1998,
+1999,    Paris 
+2000,    Lille 
+2001,    Charleville 
+2002,    Metz 
+2003,    Belfort 
+2004,    Lons-le-Saunier 
+2005,    Champagnole 
+2006,    Genève 
+2007,    Aix-les-Bains 
+2008,    Grenoble 
+2009,    Briançon 
+2010,    Digne 
+2011,    Nice 
+2012,    Toulon 
+2013,    Marseille 
+2014,    Nîmes 
+2015,    Montpellier 
+2016,    Narbonne 
+2017,    Perpignan 
+2018,    Bourg-Madame 
+2019,    Ax-les-Thermes 
+2020,    Luchon 
+2021,    Pau 
+2022,    Bordeaux 
+2023,    Royan 
+2024,    Saintes 
+2025,    La Rochelle 
+2026,    La Roche-sur-Yon 
+2027,    Rennes 
+2028,    Vire 
+2029,    Caen 
+2030,
+2031,
+2032,    Paris 
+2033,    Lille 
+2034,    Charleville 
+2035,    Metz 
+2036,    Belfort 
+2037,    Évian 
+2038,    Aix-les-Bains 
+2039,    Grenoble 
+2040,    Briançon 
+2041,    Digne 
+2042,    Nice 
+2043,    Cannes 
+2044,    Marseille 
+2045,    Nîmes 
+2046,    Montpellier 
+2047,    Narbonne 
+2048,    Perpignan 
+2049,    Luchon 
+2050,    Pau 
+2051,    Bordeaux 
+2052,    Saintes 
+2053,    La Rochelle 
+2054,    La Roche-sur-Yon 
+2055,    Cholet 
+2056,    Angers 
+2057,    Vire 
+2058,    Caen 
+2059,
+2060,
+2061,    Paris 
+2062,    Lille 
+2063,    Charleville 
+2064,    Metz 
+2065,    Belfort 
+2066,    Genève 
+2067,    Évian 
+2068,    Aix-les-Bains 
+2069,    Grenoble 
+2070,    Gap 
+2071,    Digne 
+2072,    Nice 
+2073,    Cannes 
+2074,    Marseille 
+2075,    Nîmes 
+2076,
+2077,    Narbonne 
+2078,    Perpignan 
+2079,    Luchon 
+2080,    Pau 
+2081,    Bordeaux 
+2082,    Rochefort 
+2083,    La Rochelle 
+2084,    La Roche-sur-Yon 
+2085,    Nantes 
+2086,    Vire 
+2087,    Caen 
+2088,
+2089,
+2090,    Paris 
+2091,    Lille 
+2092,    Charleville 
+2093,    Metz 
+2094,    Belfort 
+2095,    Évian 
+2096,    Aix-les-Bains 
+2097,    Grenoble 
+2098,    Gap 
+2099,    Digne 
+2100,    Nice 
+2101,    Cannes 
+2102,    Marseille 
+2103,    Montpellier 
+2104,    Perpignan 
+2105,    Ax-les-Thermes 
+2106,    Luchon 
+2107,    Tarbes 
+2108,    Pau 
+2109,    Bordeaux 
+2110,    La Rochelle 
+2111,    La Roche-sur-Yon 
+2112,    Nantes 
+2113,    Caen 
+2114,
+2115,
+2116,    Paris 
+2117,    Lille 
+2118,    Charleville 
+2119,    Metz 
+2120,    Belfort 
+2121,    Évian 
+2122,    Aix-les-Bains 
+2123,    Grenoble 
+2124,    Gap 
+2125,    Digne 
+2126,    Nice 
+2127,    Cannes 
+2128,    Marseille 
+2129,    Montpellier 
+2130,    Perpignan 
+2131,    Ax-les-Thermes 
+2132,    Luchon 
+2133,    Tarbes 
+2134,    Pau 
+2135,    Bordeaux 
+2136,    La Rochelle 
+2137,    Rennes 
+2138,    Caen 
+2139,
+2140,
+2141,    Paris 
+2142,    Cannes 
+2143,    Nantes 
+2144,    Bordeaux 
+2145,    Pau 
+2146,    Luchon 
+2147,    Perpignan 
+2148,    Montpellier 
+2149,    Marseille 
+2150,    Cannes 
+2151,    Nice 
+2152,    Gap 
+2153,    Grenoble 
+2154,    Aix-les-Bains 
+2155,    Évian 
+2156,    Belfort 
+2157,    Strasbourg 
+2158,    Metz 
+2159,    Charleville 
+2160,    Malo-les-Bains 
+2161,    Amiens 
+2162,
+2163,
+2164,    Paris 
+2165,    Caen 
+2166,    Dinan 
+2167,    Brest 
+2168,    Vannes 
+2169,    Les Sables-d'Olonne 
+2170,    Bordeaux 
+2171,    Bayonne 
+2172,    Pau 
+2173,    Luchon 
+2174,    Perpignan 
+2175,    Montpellier 
+2176,    Marseille 
+2177,    Cannes 
+2178,    Nice 
+2179,    Gap 
+2180,    Grenoble 
+2181,    Aix-les-Bains 
+2182,    Évian 
+2183,    Belfort 
+2184,    Colmar 
+2185,    Metz 
+2186,    Charleville 
+2187,    Malo-les-Bains 
+2188,
+2189,
+2190,    Paris 
+2191,    Caen 
+2192,    Dinan 
+2193,    Brest 
+2194,    Vannes 
+2195,    Les Sables-d'Olonne 
+2196,    Bordeaux 
+2197,    Hendaye 
+2198,    Pau 
+2199,    Luchon 
+2200,    Perpignan 
+2201,    Montpellier 
+2202,    Marseille 
+2203,    Cannes 
+2204,    Nice 
+2205,    Grenoble 
+2206,    Évian 
+2207,    Belfort 
+2208,    Metz 
+2209,    Charleville 
+2210,    Malo-les-Bains 
+2211,
+2212,
+2213,    Paris 
+2214,    Caen 
+2215,    Cherbourg 
+2216,    Dinan 
+2217,    Brest 
+2218,    Vannes 
+2219,    Les Sables-d'Olonne 
+2220,    Bordeaux 
+2221,    Bayonne 
+2222,    Luchon 
+2223,    Perpignan 
+2224,    Marseille 
+2225,    Cannes 
+2226,    Nice 
+2227,    Grenoble 
+2228,    Évian 
+2229,    Belfort 
+2230,    Strasbourg 
+2231,    Metz 
+2232,    Charleville 
+2233,    Malo-les-Bains 
+2234,    Dieppe 
+2235,
+2236,
+2237,    Paris 
+2238,    Caen 
+2239,    Cherbourg 
+2240,    Dinan 
+2241,    Brest 
+2242,    Vannes 
+2243,    Les Sables-d'Olonne 
+2244,    Bordeaux 
+2245,    Hendaye 
+2246,    Luchon 
+2247,    Perpignan 
+2248,    Marseille 
+2249,    Nice 
+2250,    Grenoble 
+2251,    Évian 
+2252,    Pontarlier 
+2253,    Belfort 
+2254,    Strasbourg 
+2255,    Metz 
+2256,    Charleville 
+2257,    Malo-les-Bains 
+2258,    Dieppe 
+2259,
+2260,
+2261,    Paris 
+2262,    Dieppe 
+2263,    Le Havre 
+2264,    Caen 
+2265,    Cherbourg 
+2266,    Dinan 
+2267,    Brest 
+2268,    Vannes 
+2269,    Les Sables-d'Olonne 
+2270,    Bordeaux 
+2271,    Bayonne 
+2272,    Luchon 
+2273,    Perpignan 
+2274,    Marseille 
+2275,    Toulon 
+2276,    Nice 
+2277,    Briançon 
+2278,    Évian 
+2279,    Pontailler 
+2280,    Belfort 
+2281,    Strasbourg 
+2282,    Metz 
+2283,    Charleville 
+2284,    Dunkerque 
+2285,
+2286,
+2287,    Évian 
+2288,    Mulhouse 
+2289,    Metz 
+2290,    Dunkerque 
+2291,    Le Havre 
+2292,    Cherbourg 
+2293,    Brest 
+2294,    Les Sables-d'Olonne 
+2295,    Bordeaux 
+2296,    Bayonne 
+2297,    Luchon 
+2298,    Perpignan 
+2299,    Toulon 
+2300,    Nice 
+2301,    Briançon 
+2302,    Évian 
+2303,    Dijon 
+2304,
+2305,
+2306,    Paris 
+2307,    Le Havre 
+2308,    Cherbourg 
+2309,    Brest 
+2310,    Vannes 
+2311,    Les Sables-d'Olonne 
+2312,    Bordeaux 
+2313,    Bayonne 
+2314,    Luchon 
+2315,    Perpignan 
+2316,    Nîmes 
+2317,    Toulon 
+2318,    Nice 
+2319,    Briançon 
+2320,    Évian 
+2321,    Mulhouse 
+2322,    Metz 
+2323,    Dunkerque 
+2324,
+2325,    Paris 
+2326,    Paris 
+2327,    Le Havre 
+2328,    Cherbourg 
+2329,    Brest 
+2330,    Les Sables-d'Olonne 
+2331,    Bayonne 
+2332,    Luchon 
+2333,    Perpignan 
+2334,    Toulon 
+2335,    Nice 
+2336,    Briançon 
+2337,    Gex 
+2338,    Strasbourg 
+2339,    Metz 
+2340,    Dunkerque 
+2341,    Paris 
+2342,
+2343,    Paris 
+2344,    Le Havre 
+2345,    Cherbourg 
+2346,    Brest 
+2347,    Les Sables-d'Olonne 
+2348,    Bayonne 
+2349,    Luchon 
+2350,    Perpignan 
+2351,    Toulon 
+2352,    Nice 
+2353,    Briançon 
+2354,    Genève 
+2355,    Strasbourg 
+2356,    Metz 
+2357,    Dunkerque 
+2358,
+2359,    Paris 
+2360,    Paris 
+2361,    Le Havre 
+2362,    Cherbourg 
+2363,    Brest 
+2364,    Les Sables-d'Olonne 
+2365,    Bayonne 
+2366,    Luchon 
+2367,    Perpignan 
+2368,    Toulon 
+2369,    Nice 
+2370,    Briançon 
+2371,    Genève 
+2372,    Strasbourg 
+2373,    Metz 
+2374,    Dunkerque 
+2375,    Paris 
+2376,
+2377,    Paris 
+2378,    Le Havre 
+2379,    Cherbourg 
+2380,    Brest 
+2381,    Les Sables-d'Olonne 
+2382,    Bayonne 
+2383,    Luchon 
+2384,    Perpignan 
+2385,    Toulon 
+2386,    Nice 
+2387,    Grenoble 
+2388,    Genève 
+2389,    Strasbourg 
+2390,    Metz 
+2391,    Dunkerque 
+2392,
+2393,    Paris 
+2394,    Paris 
+2395,    Le Havre 
+2396,    Cherbourg 
+2397,    Brest 
+2398,    Les Sables-d'Olonne 
+2399,    Bayonne 
+2400,    Luchon 
+2401,    Perpignan 
+2402,    Aix-en-Provence 
+2403,    Nice 
+2404,    Grenoble 
+2405,    Gex 
+2406,    Strasbourg 
+2407,    Metz 
+2408,    Dunkerque 
+2409,    Paris 
+2410,
+2411,    Paris 
+2412,    Le Havre 
+2413,    Cherbourg 
+2414,    Brest 
+2415,    Les Sables-d'Olonne 
+2416,    Bayonne 
+2417,    Luchon 
+2418,    Perpignan 
+2419,    Marseille 
+2420,    Nice 
+2421,    Grenoble 
+2422,    Genève 
+2423,    Strasbourg 
+2424,    Metz 
+2425,    Dunkerque 
+2426,    Paris 
+2427,
+2428,    Paris 
+2429,    Le Havre 
+2430,    Cherbourg 
+2431,    Brest 
+2432,    La Rochelle 
+2433,    Bayonne 
+2434,    Luchon 
+2435,    Perpignan 
+2436,    Marseille 
+2437,    Nice 
+2438,    Grenoble 
+2439,    Genève 
+2440,    Belfort 
+2441,    Longwy 
+2442,    Dunkerque 
+2443,    Paris 
+2444,
+2445,    Paris 
+2446,    Le Havre 
+2447,    Cherbourg 
+2448,    Brest 
+2449,    La Rochelle 
+2450,    Bayonne 
+2451,    Luchon 
+2452,    Perpignan 
+2453,    Aix-en-Provence 
+2454,    Nice 
+2455,    Grenoble 
+2456,    Genève 
+2457,    Belfort 
+2458,    Longwy 
+2459,    Dunkerque 
+2460,
+2461,    Paris 
+2462,    Paris 
+2463,    Dunkerque 
+2464,    Longwy 
+2465,    Belfort 
+2466,    Chamonix 
+2467,    Grenoble 
+2468,    Nice 
+2469,    Marseille 
+2470,    Perpignan 
+2471,    Luchon 
+2472,    Bayonne 
+2473,    La Rochelle 
+2474,    Brest 
+2475,    Cherbourg 
+2476,    Le Havre 
+2477,
+2478,    Paris 
+2479,    Paris 
+2480,    Dunkerque 
+2481,    Longwy 
+2482,    Belfort 
+2483,    Chamonix 
+2484,    Grenoble 
+2485,    Nice 
+2486,    Marseille 
+2487,    Perpignan 
+2488,    Luchon 
+2489,    Bayonne 
+2490,    La Rochelle 
+2491,    Brest 
+2492,    Cherbourg 
+2493,    Le Havre 
+2494,    Paris 
+2495,
+2496,    Paris 
+2497,    Roubaix 
+2498,    Metz 
+2499,    Belfort 
+2500,    Lyon 
+2501,    Grenoble 
+2502,    Nice 
+2503,    Nîmes 
+2504,    Perpignan 
+2505,    Luchon 
+2506,    Bayonne 
+2507,    Bordeaux 
+2508,    Nantes 
+2509,    Brest 
+2510,    Caen 
+2511,    Paris 
+2512,
+2513,    Paris 
+2514,    Roubaix 
+2515,    Metz 
+2516,    Belfort 
+2517,    Lyon 
+2518,    Grenoble 
+2519,    Nice 
+2520,    Nîmes 
+2521,    Toulouse 
+2522,    Bayonne 
+2523,    Bordeaux 
+2524,    Nantes 
+2525,    Brest 
+2526,    Caen 
+2527,
+2528,    Paris 
+2529,    Paris 
+2530,    Roubaix 
+2531,    Metz 
+2532,    Belfort 
+2533,    Lyon 
+2534,    Grenoble 
+2535,    Nice 
+2536,    Nîmes 
+2537,    Toulouse 
+2538,    Bayonne 
+2539,    Bordeaux 
+2540,    Nantes 
+2541,    Brest 
+2542,    Caen 
+2543,
+2544,    Paris 
+2545,    Paris 
+2546,    Roubaix 
+2547,    Metz 
+2548,    Belfort 
+2549,    Lyon 
+2550,    Grenoble 
+2551,    Nice 
+2552,    Nîmes 
+2553,    Toulouse 
+2554,    Bayonne 
+2555,    Bordeaux 
+2556,    Nantes 
+2557,    Brest 
+2558,    Caen 
+2559,
+2560,    Paris 
+2561,    Paris 
+2562,    Douai 
+2563,    Nancy 
+2564,    Dijon 
+2565,    Grenoble 
+2566,    Nice 
+2567,    Marseille 
+2568,    Toulouse 
+2569,    Bayonne 
+2570,    Bordeaux 
+2571,    Nantes 
+2572,    Brest 
+2573,    Caen 
+2574,    Paris 
+2575,
+2576,    Paris 
+2577,    Nancy 
+2578,    Besançon 
+2579,    Grenoble 
+2580,    Toulon 
+2581,    Nîmes 
+2582,    Toulouse 
+2583,    Bordeaux 
+2584,    La Rochelle 
+2585,    Rennes 
+2586,    Caen 
+2587,
+2588,    Paris 
+2589,    Montgeron 
+2590,    Lyon 
+2591,    Marseille 
+2592,    Toulouse 
+2593,    Bordeaux 
+2594,    Nantes 
+2595,    Montgeron 
+2596,    Paris 
+2597,    Lyon 
+2598,    Marseille 
+2599,    Toulouse 
+2600,    Bordeaux 
+2601,    Nantes 
+2602,
